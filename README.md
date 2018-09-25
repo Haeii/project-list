@@ -3,7 +3,7 @@ This is mainly a list of projects that I have to either finish or begin working 
 
 ## Academics for 2018
 
-- [x] Finish production of Unlocked
+- [x] Finish production of Unlocked (website coming soon - not made by me)
 - [ ] Finish [fiap-game](https://github.com/Haeii/fiap-game) (PT-BR only)
 - [ ] Finish [CS50 Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-computer-science-harvardx-cs50x)
 - [ ] Get approved in my first year at FIAP - Information System
