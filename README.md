@@ -25,6 +25,18 @@ This is mainly a list of projects that I have to either finish or begin working 
 
 # Programming languages and other technologies
 
+#### HTML/CSS
+
+- [x] Begin learning
+- [x] Learn basic structure and logic
+- [ ] Learn in-depth Grid/Flexbox
+
+#### Javascript
+
+- [x] Begin learning
+- [x] Learn basic structure and logic
+- [ ] Learn how to mess with DOM elements
+
 #### C/C++
 
 - [x] Begin learning
