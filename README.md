@@ -52,6 +52,10 @@ This is mainly a list of projects that I have to either finish or begin working 
 
 - [ ] Begin learning
 
+#### Linux 
+
+- [ ] Start using a distro
+
 #### More to come
 
 # Languages
